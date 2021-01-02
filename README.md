@@ -28,8 +28,7 @@ currency pair and every one hour and notify the user if the rate changes.
 LiveData and ViewModel.
 
 
-![Screenshot_1609575160](https://user-images.githubusercontent.com/41232970/103453550-f2d0f600-4ce3-11eb-835e-be5bddb5dd16.png | height="400")
-
+<img src="https://user-images.githubusercontent.com/41232970/103453550-f2d0f600-4ce3-11eb-835e-be5bddb5dd16.png" data-canonical-src="https://user-images.githubusercontent.com/41232970/103453550-f2d0f600-4ce3-11eb-835e-be5bddb5dd16.png" width="200" height="600" />
 
 ## API
 - The app should be connected with a Web API to get the conversion rate or to convert
