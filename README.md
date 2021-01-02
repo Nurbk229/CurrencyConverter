@@ -27,6 +27,10 @@ currency pair and every one hour and notify the user if the rate changes.
 - You should use MVVM architecture with Android Architecture Components such as
 LiveData and ViewModel.
 
+
+![Screenshot_1609575160](https://user-images.githubusercontent.com/41232970/103453550-f2d0f600-4ce3-11eb-835e-be5bddb5dd16.png | height="400")
+
+
 ## API
 - The app should be connected with a Web API to get the conversion rate or to convert
 the amount directly so the result should be up-to-date not statically saved in the app.
