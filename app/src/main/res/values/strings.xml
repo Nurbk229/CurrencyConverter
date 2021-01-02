@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="convert">Convert</string>
+
+    <string name="error_connection_failed">Could not connect to the internet!</string>
+    <string name="error_unexpected">Unexpected error occurred!</string>
+    <string name="main_channel">Main Channel</string>
+    <string name="main_channel_description">This is the simpel Noticiation Channel app</string>
+    <string name="error_code">This country is not included</string>
+</resources>
